@@ -15,3 +15,9 @@
 I really might need to revisit some JS later on. I know only the most basic syntax from SoloLearn, and the rest is just guessing/googling error messages. 
 
 Scrimba is really cool. If you haven't tried it yet, you should.
+
+### Day 2: September 7, 2018
+
+**Today's Progress**: Made progress with some advanced feauteres of the todo-app
+
+**Thoughts:** 1h is quite a lot of time in general, but no time if you code. UsuallynI code for hours on end, but only once to twice a week.
