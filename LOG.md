@@ -27,3 +27,9 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: Basically finished my to-do-app
 
 **Thoughts:** Propably will start a new app tomorrow (maybe a calculator). Learnt many new things. I should stop writing this messages like anyone but me will read them. Why am I even writing them in English?
+
+### Day 4: September 9, 2018
+
+**Today's Progress**: Started a bitcoin price displaying app using coindesks api (actually I just tried to make the API call work)
+
+**Thoughts:** Working with async stuff is hard. Especially if you never did it before. I haven't. I feel creative for not doing the same thing with this one movie db, like everyone else (though btc is basically API project #2).  
