@@ -33,3 +33,10 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: Started a bitcoin price displaying app using coindesks api (actually I just tried to make the API call work)
 
 **Thoughts:** Working with async stuff is hard. Especially if you never did it before. I haven't. I feel creative for not doing the same thing with this one movie db, like everyone else (though btc is basically API project #2).  
+
+
+### Day 5: September 10, 2018
+
+**Today's Progress**: The Bitcoin-App is now basically the MVP
+
+**Thoughts:** Today, I learnt that you shouldn't trust any random tutorial on the internet. Trust W3-Schools instead :). Also, JavaScript is a weird language.
