@@ -40,3 +40,10 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: The Bitcoin-App is now basically the MVP
 
 **Thoughts:** Today, I learnt that you shouldn't trust any random tutorial on the internet. Trust W3-Schools instead :). Also, JavaScript is a weird language.
+
+
+### Day 6: September 11, 2018
+
+**Today's Progress**: Extended my BTC-App functionality
+
+**Thoughts:** Stuff's hard. Only added a little feature in the whole hour and i had so much trouble with it.
