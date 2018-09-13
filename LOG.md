@@ -47,3 +47,10 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: Extended my BTC-App functionality
 
 **Thoughts:** Stuff's hard. Only added a little feature in the whole hour and i had so much trouble with it.
+
+
+### Day 7: September 12, 2018
+
+**Today's Progress**: Fixed CSS problem with my course change
+
+**Thoughts:** I couldn't do anything yesterday and only half an hour today, because of school. i think I have to reduce the time per day to 30 minutes on work days.
