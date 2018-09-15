@@ -69,3 +69,5 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: I think the app is ready.
 
 **Thoughts:** You can really overoptimize everything. So I decided to just don't bother too much at all with optimization...
+
+![The page](https://imgur.com/RzrhJVr)
