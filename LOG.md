@@ -61,3 +61,11 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Today's Progress**: Went ahead and gave my app a layout and design
 
 **Thoughts:** I hate CSS. It's a weird clusterf\*ck of ideas and concepts that dont work together.
+
+
+
+### Day 8: September 15, 2018
+
+**Today's Progress**: I think the app is ready.
+
+**Thoughts:** You can really overoptimize everything. So I decided to just don't bother too much at all with optimization...
