@@ -71,3 +71,15 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 **Thoughts:** You can really overoptimize everything. So I decided to just don't bother too much at all with optimization...
 
 ![The page](https://imgur.com/RzrhJVr.png)
+
+
+
+### Day 9: September 16, 2018
+
+**Today's Progress**: today I installed the vue-cli and created a project. Yes, that took me an hour.
+
+**Thoughts:** There was a weird issue with installing node.js on ubuntu16.04, and I had to follow a guide and manipulate some weird files by hand. Felt good but was also scary.
+
+creating a project with the CLI took like 2 minutes, and I wonder what the hard pat was. it seems like it only created some boilerplate.
+
+Working wih the vue-cli is totally different from just including it via CDN. What is a .vue file? Why are there no .html/.css files? I was told "you should just start with the cdn version, it's easier to install", and i feel lied to.
