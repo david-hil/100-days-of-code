@@ -83,3 +83,12 @@ Scrimba is really cool. If you haven't tried it yet, you should.
 creating a project with the CLI took like 2 minutes, and I wonder what the hard pat was. it seems like it only created some boilerplate.
 
 Working wih the vue-cli is totally different from just including it via CDN. What is a .vue file? Why are there no .html/.css files? I was told "you should just start with the cdn version, it's easier to install", and i feel lied to.
+
+
+### Day 10: September 17, 2018
+
+**Today's Progress**: Today I mostly read about the (totally different) system with the .vue singe file component
+
+**Thoughts:** I feel like I'm getting the hang of it. It's actually way more handy and efficient, but still really different.
+
+Also, it's two digits now. See you in 90 days to three digits (I will have to do 101 days to get to 100 cause I started at 0)
