@@ -92,3 +92,11 @@ Working wih the vue-cli is totally different from just including it via CDN. Wha
 **Thoughts:** I feel like I'm getting the hang of it. It's actually way more handy and efficient, but still really different.
 
 Also, it's two digits now. See you in 90 days to three digits (I will have to do 101 days to get to 100 cause I started at 0)
+
+### Day 11: October 5, 2018
+
+**Today's Progress**: After I saw a tutorial for a full-stack webapp i became inspired and learned a bit express today.
+
+**Thoughts:** I had to quit this challenge for some time. I was overly confident when starting this challenge right at the end of summer holiday, and of course school kicked in later. I'm not gonna lie, after I stopped doing this challenge, I got a bit lazy and didn't do it whenever possible, but the last year of high school is a bit harder, as one should probably expect. Now I'm using this extended weekend to start once again, this time hopefully for a little longer, but I'll probably cut the time to half an hour on weekdays, with the execption of friday, and sunday (meaning: half an hour on monday through thursday, 1 hour friday and saturday, 1/2 h on sunday).
+
+See you hopefully tomorrow.
