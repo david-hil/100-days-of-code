@@ -100,3 +100,10 @@ Also, it's two digits now. See you in 90 days to three digits (I will have to do
 **Thoughts:** I had to quit this challenge for some time. I was overly confident when starting this challenge right at the end of summer holiday, and of course school kicked in later. I'm not gonna lie, after I stopped doing this challenge, I got a bit lazy and didn't do it whenever possible, but the last year of high school is a bit harder, as one should probably expect. Now I'm using this extended weekend to start once again, this time hopefully for a little longer, but I'll probably cut the time to half an hour on weekdays, with the execption of friday, and sunday (meaning: half an hour on monday through thursday, 1 hour friday and saturday, 1/2 h on sunday).
 
 See you hopefully tomorrow.
+
+
+### Day 12: October 13, 2018
+
+**Today's Progress**: Working now on the front-wnd of my fullstack web app
+
+**Thoughts:** Oops, I didn't really work on it. I actually made some little changes to the back-end saturday and some major stuff sunday, but not enough to commit it here. So now, I'm back at it again. But that's just life...
