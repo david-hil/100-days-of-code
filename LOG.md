@@ -107,3 +107,11 @@ See you hopefully tomorrow.
 **Today's Progress**: Working now on the front-wnd of my fullstack web app
 
 **Thoughts:** Oops, I didn't really work on it. I actually made some little changes to the back-end saturday and some major stuff sunday, but not enough to commit it here. So now, I'm back at it again. But that's just life...
+
+
+
+### Day 13: October 15, 2018
+
+**Today's Progress**: Made progress on the frontend. Learnt that you can't serve back- and front-end on different ports easily.
+
+**Thoughts:** If you're reading this and are a future potential employer trying to find out whether I did eough open source work to be considered acceptable: see, I don't have a motivation problem, I even worked on mondays! If you're reading this and are not a potential employer, why are you even reading this?? Tell me! How? I don't know. If you're reading this, telepathy is hopefully already an option. Looking forward to thinking from you!
