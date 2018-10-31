@@ -115,3 +115,10 @@ See you hopefully tomorrow.
 **Today's Progress**: Made progress on the frontend. Learnt that you can't serve back- and front-end on different ports easily.
 
 **Thoughts:** If you're reading this and are a future potential employer trying to find out whether I did eough open source work to be considered acceptable: see, I don't have a motivation problem, I even worked on mondays! If you're reading this and are not a potential employer, why are you even reading this?? Tell me! How? I don't know. If you're reading this, telepathy is hopefully already an option. Looking forward to thinking from you!
+
+
+### Day 14: October 30, 2018
+
+**Today's Progress**: A lot of stuff. Worked for 4-5 h.
+**Thoughts:** Whoopsie, doopsie! Two weeks have passes again... 
+To be fair to myself, I coded sometimes in the meantime, especially in the last days as I've got holidays, I was just to lazy to protocol it. I think I should change the challenge to 30 non-consecutive days of code, that seems waaay more reasonable.
